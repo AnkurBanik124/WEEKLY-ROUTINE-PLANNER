@@ -29,23 +29,6 @@ It helps users easily organize, view, and save their weekly class or work schedu
 
 ---
 
-## 🧩 GUI Layout Overview
-
-
-+-----------------------------------------------------------+
-| WEEKLY ROUTINE PLANNER |
-+-----------------------------------------------------------+
-| Add Work Panel: [Select Day] [Time] [Activity] [Add Work] |
-+-----------------------------------------------------------+
-| Weekly Routine Table |
-| Time | Monday | Tuesday | Wednesday | Thursday | Friday |
-+-----------------------------------------------------------+
-| [Add Saturday] [Add Sunday] [Show] [Save] [Clear] [Exit] |
-+-----------------------------------------------------------+
-
-
----
-
 ## 🛠️ Technologies Used
 
 - **Language:** Java  
@@ -55,25 +38,14 @@ It helps users easily organize, view, and save their weekly class or work schedu
 
 ---
 
-## 📂 Folder Structure
-
-Weekly-Routine-Planner/
-│
-├── WeeklyRoutinePlanner.java # Main program file
-├── Routine.txt # Auto-generated output file
-└── README.md # Project documentation
-
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Weekly-Routine-Planner.git
    cd Weekly-Routine-Planner
-   Compile:  javac WeeklyRoutinePlanner.java
-   Run:  java WeeklyRoutinePlanner
+   javac WeeklyRoutinePlanner.java
+   java WeeklyRoutinePlanner
 
   
 
