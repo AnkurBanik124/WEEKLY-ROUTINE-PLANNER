@@ -40,7 +40,6 @@ It helps users easily organize, view, and save their weekly class or work schedu
 
 ## 🚀 How to Run
 
-1. Clone this repository:
    ```bash
    git clone https://github.com/<your-username>/Weekly-Routine-Planner.git
    cd Weekly-Routine-Planner
