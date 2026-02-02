@@ -45,6 +45,7 @@ It helps users easily organize, view, and save their weekly class or work schedu
    cd Weekly-Routine-Planner
    javac WeeklyRoutinePlanner.java
    java WeeklyRoutinePlanner
+'''
 
 ---
 
