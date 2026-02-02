@@ -46,7 +46,23 @@ It helps users easily organize, view, and save their weekly class or work schedu
    javac WeeklyRoutinePlanner.java
    java WeeklyRoutinePlanner
 
-  
+---
+
+## 🖥️ GUI Preview
+
+### 🔹 Main Application Window
+![Main GUI](GUIPreview/WeeklyRoutinePlanner1.png)
+
+### 🔹 Timetable After Adding Classes
+![Timetable View](GUIPreview/WeeklyRoutinePlanner2.png)
+
+### 🔹 Routine Summary Dialog
+![Routine Summary](GUIPreview/WeeklyRoutinePlanner3.png)
+
+### 🔹 Saved Routine (Text File Output)
+![Saved Routine File](GUIPreview/WeeklyRoutinePlanner4.png)
+
+> All screenshots were captured from the running Swing-based Java GUI application.
 
 
 
