@@ -41,11 +41,12 @@ It helps users easily organize, view and save their weekly class or work schedul
 ## 🚀 How to Run
 
    ```bash
-   git clone https://github.com/AnkurBanik124/Weekly-Routine-Planner.git
-   cd Weekly-Routine-Planner
-   javac WeeklyRoutinePlanner.java
-   java WeeklyRoutinePlanner
+   git clone https://github.com/AnkurBanik124/WEEKLY-ROUTINE-PLANNER.git
+   cd WEEKLY-ROUTINE-PLANNER
+   javac RoutinePlanner.java
+   java RoutinePlanner
    ```
+
 
 ---
 
