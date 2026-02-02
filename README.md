@@ -41,7 +41,7 @@ It helps users easily organize, view, and save their weekly class or work schedu
 ## 🚀 How to Run
 
    ```bash
-   git clone https://github.com/<your-username>/Weekly-Routine-Planner.git
+   git clone https://github.com/AnkurBanik124/Weekly-Routine-Planner.git
    cd Weekly-Routine-Planner
    javac WeeklyRoutinePlanner.java
    java WeeklyRoutinePlanner
