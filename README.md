@@ -1,7 +1,7 @@
 # 🗓️ Weekly Routine Planner (Java Swing)
 
 A clean, interactive **Weekly Routine Planner GUI** built using **Java Swing**.  
-It helps users easily organize, view, and save their weekly class or work schedule — with flexible days, customizable times, and automatic text file export.
+It helps users easily organize, view and save their weekly class or work schedule — with flexible days, customizable times and automatic text file export.
 
 ---
 
