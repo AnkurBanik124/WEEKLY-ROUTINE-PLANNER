@@ -47,7 +47,6 @@ It helps users easily organize, view and save their weekly class or work schedul
    java RoutinePlanner
    ```
 
-
 ---
 
 ## 🖥️ GUI Preview
